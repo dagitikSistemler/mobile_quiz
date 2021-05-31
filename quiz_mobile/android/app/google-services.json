@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933917030232",
+    "project_id": "quizmobile-994cc",
+    "storage_bucket": "quizmobile-994cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933917030232:android:2e8f0827f9ca1f9e85d72d",
+        "android_client_info": {
+          "package_name": "com.exampler.quiz_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933917030232-0gh0l4ld5mog376jgs3t0ejqoqradscp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqv5zxY_e7Pjx7q0J4_NCCJxmndGQZ18I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933917030232-0gh0l4ld5mog376jgs3t0ejqoqradscp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
